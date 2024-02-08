@@ -7,13 +7,9 @@ The website will serve as a comprehensive product showcase platform for a car pr
 
 ## Members
 1. Huynh Van Hiep
-<<<<<<< Updated upstream
 2. Vu Quang Dan
-3. Tran Huynh An Duy
-=======
-2. Vu Quang Dan (Dan)
 3. Tran Huynh An Duy (Andy)
->>>>>>> Stashed changes
+ Stashed changes
 4. Nguyen Dinh Khanh Chi
 
 ## Table of Contents
